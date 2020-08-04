@@ -1,2 +1,4 @@
 # Vigilant Vultures
-This is the default README of your team's project. Please replace this by a README with more information on your project. At the very least, your README should contain information on how to set-up and run your project.
+# VultureTech Presents: Time Sink --
+# -- an online client with Spider and Klondike Solitaire, Minesweeper, and other one player games that were used to kill time in the office 
+# before Reddit was really a thing!
